@@ -3,7 +3,7 @@ This repository contains the completed implementation of the SecureChat system f
 
 This system is a console-based, PKI-enabled Secure Chat built in Python. It manually implements all cryptographic operations at the application layer to achieve Confidentiality, Integrity, Authenticity, and Non-Repudiation (CIANR), without relying on TLS/SSL.
 
-GitHub Repository Link: [PASTE THE LINK TO YOUR GITHUB FORK HERE]
+
 
 Features
 PKI: Full Certificate Authority (CA) and certificate generation.
